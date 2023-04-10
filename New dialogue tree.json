@@ -1,0 +1,112 @@
+[
+	{
+		"title": "1",
+		"tags": "",
+		"body": "UwU",
+		"position": {
+			"x": -1208,
+			"y": -130
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "Maybe you SHOULD extend your cars warranty!",
+		"position": {
+			"x": -836,
+			"y": -168
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "Hardships are the balls of life, but that is where the pee of life is stored.",
+		"position": {
+			"x": -618,
+			"y": -173
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "Why do they call it oven when you of in the cold food of out hot eat the food.",
+		"position": {
+			"x": -408,
+			"y": -172
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?",
+		"position": {
+			"x": -832,
+			"y": 41
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "Every day is a fresh opportunity to waste.",
+		"position": {
+			"x": -618,
+			"y": 46
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "In the human kingdom, the rule is, yeet or be yeeten.",
+		"position": {
+			"x": -408,
+			"y": 45
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "Life is uncertain. \nThat's all there's no reassurance here.",
+		"position": {
+			"x": -202,
+			"y": 53
+		},
+		"colorID": 0
+	},
+	{
+		"title": "9",
+		"tags": "",
+		"body": "Sometimes your dumbest ideas are the best ones.",
+		"position": {
+			"x": 7,
+			"y": 53
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Intro",
+		"tags": "",
+		"body": "Psst. Hey Buddy! Wanna buy some art?\n[[ToString(Random(DialogueTree::OptionsCount()))]]",
+		"position": {
+			"x": -1227,
+			"y": -479
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ToString(Random(DialogueTree::OptionsCount()))",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": -1107,
+			"y": -699
+		},
+		"colorID": 0
+	}
+]
